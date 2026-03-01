@@ -1,2 +1,2 @@
 # dba1-notes
-Personal notes PostgreSQL DBA 1 course
+Personal Obsidian notes PostgreSQL DBA1 course
